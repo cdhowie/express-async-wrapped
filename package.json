@@ -1,0 +1,11 @@
+{
+  "name": "express-async-wrapped",
+  "version": "1.0.0",
+  "description": "Utility function to wrap async functions for use with express.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Chris Howie <me@chrishowie.com>",
+  "license": "MIT"
+}
