@@ -1,6 +1,6 @@
 {
   "name": "express-async-wrapped",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Utility function to wrap async functions for use with express.js",
   "main": "index.js",
   "scripts": {
